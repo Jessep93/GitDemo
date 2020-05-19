@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-17T04:38:13Z" name="Suite" finished-at="2020-05-17T04:38:43Z" duration-ms="29849">
+    <groups>
+    </groups>
+    <test started-at="2020-05-17T04:38:13Z" name="Test" finished-at="2020-05-17T04:38:43Z" duration-ms="29849">
+      <class name="practice.AppiumFramework.Econmerce_pageObject">
+        <test-method signature="totalValidatio()[pri:0, instance:practice.AppiumFramework.Econmerce_pageObject@18df8434]" started-at="2020-05-17T04:38:13Z" name="totalValidatio" finished-at="2020-05-17T04:38:43Z" duration-ms="29832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidatio -->
+      </class> <!-- practice.AppiumFramework.Econmerce_pageObject -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
