@@ -39,6 +39,10 @@ public class Econmerce_totalValidation extends base {
 		FormPage formpage = new FormPage(driver);
 		
 		System.out.println("just checking if Git works");
+		System.out.println("this is another branch testing");
+		System.out.println("this is another branch testing");
+		System.out.println("this is another branch testing");
+		System.out.println("this is another branch testing");
 		
 		//driver.findElement(By.id("com.androidsample.generalstore:id/nameField")).sendKeys("Jesse");
 		formpage.getNamefield().sendKeys(input);
