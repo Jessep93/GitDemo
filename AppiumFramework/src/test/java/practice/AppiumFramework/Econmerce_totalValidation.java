@@ -38,6 +38,7 @@ public class Econmerce_totalValidation extends base {
 		
 		FormPage formpage = new FormPage(driver);
 		
+		System.out.println("just checking if Git works");
 		
 		//driver.findElement(By.id("com.androidsample.generalstore:id/nameField")).sendKeys("Jesse");
 		formpage.getNamefield().sendKeys(input);
